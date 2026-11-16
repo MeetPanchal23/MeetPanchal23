@@ -72,8 +72,8 @@ My personal portfolio showcasing my development skills and projects.
 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeetPanchal23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetPanchal23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MeetPanchal23&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetPanchal23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 🔥 GitHub Contribution Streak
