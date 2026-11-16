@@ -78,9 +78,6 @@ A personal space showcasing my development journey, skills, and projects.
 <p align="center">
 <i>"First, solve the problem. Then, write the code."</i>
 </p>
-
-<h3 align="center">⭐ Thanks for stopping by!</h3>
-
 <p align="center">
 <b>Code. Create. Innovate. Repeat. 🚀</b>
 </p>
