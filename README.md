@@ -90,17 +90,7 @@ A personal space showcasing my development journey, skills, and projects.
 <img src="https://streak-stats.demolab.com?user=MeetPanchal23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-🐍 Contribution Graph
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MeetPanchal23/MeetPanchal23/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
-💡 Developer Quote
-
-<p align="center">
-<i>"First, solve the problem. Then, write the code."</i>
-</p>
 
 <h3 align="center">⭐ Thanks for visiting my profile!</h3>
 
