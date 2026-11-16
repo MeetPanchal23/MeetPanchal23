@@ -1,4 +1,4 @@
-👋 Hey, I'm Meet Panchal
+👋 Hey, I'm Meet Panchal <br>
 💻 Full Stack Developer | Creative Thinker | Problem Solver
 
 <p align="center">
@@ -13,12 +13,12 @@
 
 I'm a passionate Full Stack Developer who enjoys creating modern, responsive, and user-friendly web applications.
 
-🔭 Currently building exciting web development projects.
-🌱 Exploring new technologies and improving my development skills.
-💡 Interested in Full Stack Development, UI/UX, and scalable applications.
-🎯 Focused on building impactful products and solving real-world problems.
-⚡ I believe great code should be simple, elegant, and powerful.
-🛠️ Technologies & Tools
+🔭 Currently building exciting web development projects. <br>
+🌱 Exploring new technologies and improving my development skills.<br>
+💡 Interested in Full Stack Development, UI/UX, and scalable applications.<br>
+🎯 Focused on building impactful products and solving real-world problems.<br>
+⚡ I believe great code should be simple, elegant, and powerful.<br>
+🛠️ Technologies & Tools<br>
 Frontend
 
 <p>
@@ -37,7 +37,7 @@ Database & Tools
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" alt="Tools and Databases" />
 </p>
 
-🌟 Featured Projects
+🌟 Featured Projects<br>
 🛒 E-Commerce Website
 
 Creating an online shopping experience with a focus on modern web development.
