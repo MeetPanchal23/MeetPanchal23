@@ -1,7 +1,7 @@
 👋 Hey, I'm Meet Panchal!
 🚀 Full Stack Developer | Web Developer | Problem Solver
 
-I love turning ideas into reality through code. I'm a passionate Full Stack Developer who enjoys building modern, responsive, and user-friendly web applications.
+I'm a passionate Full Stack Developer who loves turning ideas into reality through code. I enjoy building modern, responsive, and user-friendly web applications with clean design and efficient functionality.
 
 🔭 Currently working on exciting web development projects.
 🌱 Continuously learning new technologies and improving my skills.
@@ -12,48 +12,48 @@ I love turning ideas into reality through code. I'm a passionate Full Stack Deve
 
 <p align="left">
 <a href="https://github.com/MeetPanchal23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
 
 💻 Tech Stack & Tools
-Frontend Development
+🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend Skills" />
 </p>
 
-Backend Development
+⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs" alt="Backend Skills" />
 </p>
 
-Database & Tools
+🗄️ Database & Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" alt="Database and Tools" />
 </p>
 
 🚀 Featured Projects
 🛒 E-Commerce
 
-A web development project focused on an online shopping experience.
+A web development project focused on creating an online shopping experience.
 
 🔗 View Repository
 
 🎒 Backpack
 
-A React-based web application built with Vite.
+A React-based web application built using Vite.
 
 🔗 Live Demo | Source Code
 
 📦 Inventory Management System
 
-A project focused on managing inventory and related operations.
+A project focused on inventory tracking and management operations.
 
 🔗 View Repository
 
@@ -65,21 +65,21 @@ A project related to job application management.
 
 🌐 Personal Portfolio
 
-My personal portfolio project showcasing my development work.
+My personal portfolio showcasing my development skills and projects.
 
 🔗 View Repository
 
 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeetPanchal23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetPanchal23&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeetPanchal23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetPanchal23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 🔥 GitHub Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MeetPanchal23&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=MeetPanchal23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 🐍 Contribution Graph
@@ -89,14 +89,17 @@ My personal portfolio project showcasing my development work.
 </p>
 
 💡 Developer Quote
-"First, solve the problem. Then, write the code."
 
 <p align="center">
-### ⭐ Thanks for visiting my profile!
-<br/>
+<i>"First, solve the problem. Then, write the code."</i>
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
+<p align="center">
 <b>Let's connect, collaborate, and build something amazing together.</b>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MeetPanchal23&label=Profile%20Views&color=blueviolet&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=MeetPanchal23&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
