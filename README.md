@@ -22,7 +22,7 @@ I'm a passionate Full Stack Developer who enjoys creating modern, responsive, an
 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next.js,bootstrap,tailwind" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,bootstrap,tailwind" alt="Frontend Technologies" />
 </p>
 
 Backend
